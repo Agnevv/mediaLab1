@@ -9,6 +9,7 @@ or try a live example: https://jsbin.com/gejugat/edit?html,output
   - You have to clone this repository and make two branches (master and develop).
   - The develop branch should contain commits of every new feature of the player.
   - When all features will be ready you have to merge the development branch to the master.
+  dquiwgdbuwbefuigcbw
 
 # Requirements for player
   - You have to find an HLS player and embed it into index.html file.
